@@ -4,6 +4,16 @@ h1{
 h2{
     text-align: center;
 }
+li{
+    text-align: center;
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+.links{
+    text-align: center;
+}
 body {
     background-color: #21726A;
 }
